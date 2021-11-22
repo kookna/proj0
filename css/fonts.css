@@ -1,0 +1,38 @@
+@font-face {
+    font-family: 'esamanru';
+    src: url('../fonts/esamanruLight.eot');
+    src: url('../fonts/esamanruLight.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/esamanruLight.woff2') format('woff2'),
+        url('../fonts/esamanruLight.woff') format('woff'),
+        url('../fonts/esamanruLight.ttf') format('truetype'),
+        url('../fonts/esamanruLight.svg#esamanruLight') format('svg');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'esamanru';
+    src: url('../fonts/esamanruBold.eot');
+    src: url('../fonts/esamanruBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/esamanruBold.woff2') format('woff2'),
+        url('../fonts/esamanruBold.woff') format('woff'),
+        url('../fonts/esamanruBold.ttf') format('truetype'),
+        url('../fonts/esamanruBold.svg#esamanruBold') format('svg');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'esamanru';
+    src: url('../fonts/esamanruMedium.eot');
+    src: url('../fonts/esamanruMedium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/esamanruMedium.woff2') format('woff2'),
+        url('../fonts/esamanruMedium.woff') format('woff'),
+        url('../fonts/esamanruMedium.ttf') format('truetype'),
+        url('../fonts/esamanruMedium.svg#esamanruMedium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
