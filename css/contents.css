@@ -265,8 +265,8 @@
 /* 공식몰 혜택 */
 .export-wrap .top-text {font-size: 35px; line-height: 1.3; font-weight: 300; color: #222; text-align: center; margin-bottom: 70px;}
 .export-wrap span {font-weight: 600; vertical-align: baseline;}
-.export-wrap span.purple {font-size: 20px; color: #5a4099;}
-.export-wrap span.brown {font-size: 18px; color: #472214;}
+.export-wrap span.purple {font-size: 35px;}
+.export-wrap span.brown {font-size: 16px;}
 
 .export-wrap .dec {font-size: 0;}
 .export-wrap .dec .img {display: inline-block; width: 46%; margin: 0 4% 0 0; vertical-align: top;}
@@ -591,12 +591,12 @@
 
 .product-list .thumb .brand {display:inline-block; background-color:#5a4099;  color:#fff; text-align:center; position:absolute; top:0; right:0; padding:0px 15px; line-height:56px; max-width:50%;  transition:all 0.3s ease-in-out;}
 
-.product-list .thumb .brand.brand-01 {background-color:#482215;}
-.product-list .thumb .brand.brand-02 {background-color:#006507;}
-.product-list .thumb .brand.brand-03 {background-color:#365c52;}
-.product-list .thumb .brand.brand-04 {background-color:#826142;}
-.product-list .thumb .brand.brand-05 {background-color:#49357b;}
-.product-list .thumb .brand.brand-06 {background-color:#4c9895;}
+.product-list .thumb .brand.brand-01 {background-color:#000000;}
+.product-list .thumb .brand.brand-02 {background-color:#000000;}
+.product-list .thumb .brand.brand-03 {background-color:#000000;}
+.product-list .thumb .brand.brand-04 {background-color:#000000;}
+.product-list .thumb .brand.brand-05 {background-color:#000000;}
+.product-list .thumb .brand.brand-06 {background-color:#000000;}
 
 .product-list .link:hover .thumb .brand {background-color:#222; }
 
@@ -614,9 +614,9 @@
 
 .product-list .desc .text {display: block; font-size:18px; color:#666; font-weight:300; line-height:1.3; max-height: 72px; margin-top:24px;}
 
-.product-list .link:hover .desc .name {color:#5a4099;}
+.product-list .link:hover .desc .name {color:#000;}
 
-.product-list .link:hover .desc .vol {background-color:#5a4099; border-color: #5a4099; color:rgb(255, 0, 0);}
+.product-list .link:hover .desc .vol {background-color:#000000; border-color: #5a4099; color:#fff;}
 .product-list .link:hover .desc .vol em::before {color:#ddd;}
 .product-list .link:hover .desc .text {color:#222;}
 
